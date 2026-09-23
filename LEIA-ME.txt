@@ -1,0 +1,39 @@
+NC ADVOCACIA — NAYARA COUTO
+
+COMO ABRIR
+Mantenha index.html, styles.css, script.js e a pasta images juntos.
+Abra index.html no navegador, ou use o Live Server no VS Code.
+Não precisa instalar pacotes. As fontes Google precisam de internet;
+sem conexão, fontes do computador são usadas automaticamente.
+
+EDITAR
+index.html: textos, seções e links.
+styles.css: cores no bloco :root, fontes, espaçamento e versão mobile.
+script.js: configuração do WhatsApp, OAB e depoimentos no bloco CONFIG.
+WhatsApp: somente números, incluindo 55 e DDD. Vazio = contato pelo Instagram.
+OAB: preencher com a identificação confirmada pelo escritório.
+Depoimentos: cadastrar somente relatos reais com nome autorizado.
+A seção fica oculta enquanto a lista está vazia. Com dois ou mais relatos,
+os botões anterior/próximo aparecem. Não há relatos fictícios.
+
+CONTEÚDO E FONTES
+Perfil consultado em 09/09/2026:
+https://www.instagram.com/nc.advocacia_/
+Nome, modalidade de atuação, atendimento nacional e endereço: bio do perfil.
+Fotos da equipe e do escritório (primeira e segunda imagens):
+https://www.instagram.com/nc.advocacia_/p/Dbb1NCQkckU/
+As fotos foram copiadas sem edição. Créditos pertencem aos respectivos titulares.
+Tons escuros e dourado inspirados no perfil; a marca do cabeçalho é uma
+composição tipográfica, não o arquivo oficial do logotipo.
+Textos de apresentação criados para esta proposta.
+Áreas de atuação propostas com base nos temas do perfil; conferir a lista
+com o escritório antes de disponibilizar ao público.
+Referências de temas:
+https://www.instagram.com/nc.advocacia_/reel/DdFL4c4uPg3/
+https://www.instagram.com/nc.advocacia_/reel/DbHAaoZp5CO/
+https://www.instagram.com/nc.advocacia_/p/Db_baIrz9_R/
+https://www.instagram.com/nc.advocacia_/reel/DbB2xIWJQxp/
+
+Os links de contato abrem os canais oficiais para o visitante continuar.
+Não há formulário, envio automático de mensagens nem armazenamento de dados.
+Esta entrega é local; o site não foi publicado na internet.
